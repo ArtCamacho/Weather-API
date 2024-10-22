@@ -4,8 +4,6 @@
 
 The weather application of this project diplays the current weather and a five-day weather forecast. The weather data is fetch from an OpenWeather API.
 
-[Project Description]
-
 ## Table of Contents
 
 - [Installation](#installation)
