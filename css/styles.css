@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&display=swap");
+* {
+  font-family: "Open Sans", sans-serif;
+}
+.current-weather img {
+  max-width: 120px;
+  margin-top: -15px;
+}
+
+#search-history {
+  margin-top: 1rem; /* Add some space above the buttons */
+}
+
+#search-history button {
+  background-color: rgb(24, 97, 24); /* Example: Blue background color */
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  margin-bottom: 0.5rem; /* Space between buttons */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Indicate that it's clickable */
+}
+
+#search-history button:hover {
+  background-color: green; /* Example: Darker blue on hover */
+}
